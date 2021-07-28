@@ -6,8 +6,6 @@
  Algorithm Used here is BackgroundSubtractorMOG.
  
  Applications:
- Traffic management and planning
- Traffic control
- Parking management
+ Traffic management and planning, Traffic control, Parking management
  
- 
+ <img width="700" height="400" alt="2021-07-28" src="https://user-images.githubusercontent.com/70203511/127349836-34f035d1-efef-4115-95cc-0570209ba40b.png">
